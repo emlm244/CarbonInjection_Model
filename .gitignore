@@ -1,0 +1,7 @@
+﻿# Keep generated files and local caches out of source control
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.log
+.tmp_*/
